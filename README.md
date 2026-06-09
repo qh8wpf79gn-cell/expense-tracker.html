@@ -2,7 +2,7 @@
 
 A smart personal expense tracker with AI-powered receipt analysis. Track spending, analyze receipts with vision AI, and manage your budget with detailed insights.
 
-**[Start Tracking ✨](https://qh8wpf79gn-cell.github.io/expense-tracker/expense-tracker.html)**
+**[Start Tracking ✨](https://qh8wpf79gn-cell.github.io/expense-tracker.html/expense-tracker.html)**
 
 ## Features
 
